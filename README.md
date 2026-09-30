@@ -4,6 +4,6 @@ This repository contains practices and exercises for learning Python. You can se
 
 📂 Course Contents (Fihrist)
 
-
+* [Lesson 01] - Data types
 
 Developer: Efe Muhammed Orhan
