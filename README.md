@@ -6,4 +6,5 @@ This repository contains practices and exercises for learning Python. You can se
 
 * [Lesson 01] - Data types
 
+
 Developer: Efe Muhammed Orhan
