@@ -1,7 +1,7 @@
 a = 40
 print(a/3)
 
-b = 4
+b = 3
 print(b-2)
 
 print(4.2 * 3 -10)

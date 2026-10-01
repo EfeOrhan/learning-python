@@ -6,7 +6,7 @@ print(type(name))
 print('efe orhan')
 print("efe orhan")
 
-print("efe's car")
+print("efe's home")
 
 name = "efe muhammed orhan"
 print(name.capitalize())
