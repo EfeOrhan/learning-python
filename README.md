@@ -5,6 +5,6 @@ This repository contains practices and exercises for learning Python. You can se
 📂 Course Contents (Fihrist)
 
 * [Lesson 01] - Data types
-
+* [Lesson 02] - Index logic and collections
 
 Developer: Efe Muhammed Orhan
